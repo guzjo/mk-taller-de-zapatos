@@ -1,0 +1,6 @@
+MKSHELL=/bin/bash
+# target:OPCIONES: $prereq
+#:V: virtual
+CREA_EL_ZAPATO:V:
+	mkdir -p results/
+	echo "esto es un zapato base" > results/zapato.base

@@ -1,0 +1,8 @@
+
+# ignore everything that lives in a results/ directory
+# mk-zapato-base/results/zapato.base
+# mk-zapato-base/results/
+# mk-zapato-base/results/*
+*/results/*
+
+# mkmodules/*/results/*
